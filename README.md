@@ -1,3 +1,9 @@
+# React tutorial project using Firebase/Firestore ... JAMSTACK
+
+This is a CRUD react app in creating and management of recipes. We are using Firebase firestore to store documents in collections.
+
+Here is the deployment link https://cooking-recipe-ninja-7d70d.web.app
+-------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
